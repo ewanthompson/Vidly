@@ -10,7 +10,7 @@ using vidly.Models;
 namespace vidly.Controllers
 {
 
-    //Default project controller
+    //Default project controller1
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
