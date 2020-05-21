@@ -1,0 +1,11 @@
+C:\Users\Ewan\source\repos\Assignment17\Assignment17\bin\Debug\netcoreapp2.1\Assignment17.deps.json
+C:\Users\Ewan\source\repos\Assignment17\Assignment17\bin\Debug\netcoreapp2.1\Assignment17.runtimeconfig.json
+C:\Users\Ewan\source\repos\Assignment17\Assignment17\bin\Debug\netcoreapp2.1\Assignment17.runtimeconfig.dev.json
+C:\Users\Ewan\source\repos\Assignment17\Assignment17\bin\Debug\netcoreapp2.1\Assignment17.dll
+C:\Users\Ewan\source\repos\Assignment17\Assignment17\bin\Debug\netcoreapp2.1\Assignment17.pdb
+C:\Users\Ewan\source\repos\Assignment17\Assignment17\obj\Debug\netcoreapp2.1\Assignment17.csprojAssemblyReference.cache
+C:\Users\Ewan\source\repos\Assignment17\Assignment17\obj\Debug\netcoreapp2.1\Assignment17.csproj.CoreCompileInputs.cache
+C:\Users\Ewan\source\repos\Assignment17\Assignment17\obj\Debug\netcoreapp2.1\Assignment17.AssemblyInfoInputs.cache
+C:\Users\Ewan\source\repos\Assignment17\Assignment17\obj\Debug\netcoreapp2.1\Assignment17.AssemblyInfo.cs
+C:\Users\Ewan\source\repos\Assignment17\Assignment17\obj\Debug\netcoreapp2.1\Assignment17.dll
+C:\Users\Ewan\source\repos\Assignment17\Assignment17\obj\Debug\netcoreapp2.1\Assignment17.pdb

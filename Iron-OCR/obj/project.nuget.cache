@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "24tvWeNDt8YxsdvMYN8BjtDXIV/TLzv3L3xodnU8PJiGEBumwoKYBKUqT6/qeLlL2wz1/XqnpKHJvLmha7whfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ewan\\source\\repos\\Iron-OCR\\Iron-OCR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ewan\\.nuget\\packages\\ironocr\\4.4.0\\ironocr.4.4.0.nupkg.sha512",
+    "C:\\Users\\Ewan\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ewan\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Ewan\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\Ewan\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'IronOcr 4.4.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "IronOcr",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

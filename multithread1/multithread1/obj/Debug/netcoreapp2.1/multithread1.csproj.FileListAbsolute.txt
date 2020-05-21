@@ -1,0 +1,11 @@
+C:\Users\Ewan\source\repos\multithread1\multithread1\bin\Debug\netcoreapp2.1\multithread1.deps.json
+C:\Users\Ewan\source\repos\multithread1\multithread1\bin\Debug\netcoreapp2.1\multithread1.runtimeconfig.json
+C:\Users\Ewan\source\repos\multithread1\multithread1\bin\Debug\netcoreapp2.1\multithread1.runtimeconfig.dev.json
+C:\Users\Ewan\source\repos\multithread1\multithread1\bin\Debug\netcoreapp2.1\multithread1.dll
+C:\Users\Ewan\source\repos\multithread1\multithread1\bin\Debug\netcoreapp2.1\multithread1.pdb
+C:\Users\Ewan\source\repos\multithread1\multithread1\obj\Debug\netcoreapp2.1\multithread1.csprojAssemblyReference.cache
+C:\Users\Ewan\source\repos\multithread1\multithread1\obj\Debug\netcoreapp2.1\multithread1.csproj.CoreCompileInputs.cache
+C:\Users\Ewan\source\repos\multithread1\multithread1\obj\Debug\netcoreapp2.1\multithread1.AssemblyInfoInputs.cache
+C:\Users\Ewan\source\repos\multithread1\multithread1\obj\Debug\netcoreapp2.1\multithread1.AssemblyInfo.cs
+C:\Users\Ewan\source\repos\multithread1\multithread1\obj\Debug\netcoreapp2.1\multithread1.dll
+C:\Users\Ewan\source\repos\multithread1\multithread1\obj\Debug\netcoreapp2.1\multithread1.pdb

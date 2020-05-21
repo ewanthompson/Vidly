@@ -1,0 +1,11 @@
+C:\Users\Ewan\source\repos\Rubbish1\Rubbish1\obj\Debug\netcoreapp2.1\Rubbish1.csprojAssemblyReference.cache
+C:\Users\Ewan\source\repos\Rubbish1\Rubbish1\obj\Debug\netcoreapp2.1\Rubbish1.csproj.CoreCompileInputs.cache
+C:\Users\Ewan\source\repos\Rubbish1\Rubbish1\obj\Debug\netcoreapp2.1\Rubbish1.AssemblyInfoInputs.cache
+C:\Users\Ewan\source\repos\Rubbish1\Rubbish1\obj\Debug\netcoreapp2.1\Rubbish1.AssemblyInfo.cs
+C:\Users\Ewan\source\repos\Rubbish1\Rubbish1\bin\Debug\netcoreapp2.1\Rubbish1.deps.json
+C:\Users\Ewan\source\repos\Rubbish1\Rubbish1\bin\Debug\netcoreapp2.1\Rubbish1.runtimeconfig.json
+C:\Users\Ewan\source\repos\Rubbish1\Rubbish1\bin\Debug\netcoreapp2.1\Rubbish1.runtimeconfig.dev.json
+C:\Users\Ewan\source\repos\Rubbish1\Rubbish1\bin\Debug\netcoreapp2.1\Rubbish1.dll
+C:\Users\Ewan\source\repos\Rubbish1\Rubbish1\bin\Debug\netcoreapp2.1\Rubbish1.pdb
+C:\Users\Ewan\source\repos\Rubbish1\Rubbish1\obj\Debug\netcoreapp2.1\Rubbish1.dll
+C:\Users\Ewan\source\repos\Rubbish1\Rubbish1\obj\Debug\netcoreapp2.1\Rubbish1.pdb

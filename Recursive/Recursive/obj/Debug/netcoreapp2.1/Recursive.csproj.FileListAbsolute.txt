@@ -1,0 +1,11 @@
+C:\Users\Ewan\source\repos\Recursive\Recursive\bin\Debug\netcoreapp2.1\Recursive.deps.json
+C:\Users\Ewan\source\repos\Recursive\Recursive\bin\Debug\netcoreapp2.1\Recursive.runtimeconfig.json
+C:\Users\Ewan\source\repos\Recursive\Recursive\bin\Debug\netcoreapp2.1\Recursive.runtimeconfig.dev.json
+C:\Users\Ewan\source\repos\Recursive\Recursive\bin\Debug\netcoreapp2.1\Recursive.dll
+C:\Users\Ewan\source\repos\Recursive\Recursive\bin\Debug\netcoreapp2.1\Recursive.pdb
+C:\Users\Ewan\source\repos\Recursive\Recursive\obj\Debug\netcoreapp2.1\Recursive.csproj.CoreCompileInputs.cache
+C:\Users\Ewan\source\repos\Recursive\Recursive\obj\Debug\netcoreapp2.1\Recursive.AssemblyInfoInputs.cache
+C:\Users\Ewan\source\repos\Recursive\Recursive\obj\Debug\netcoreapp2.1\Recursive.AssemblyInfo.cs
+C:\Users\Ewan\source\repos\Recursive\Recursive\obj\Debug\netcoreapp2.1\Recursive.dll
+C:\Users\Ewan\source\repos\Recursive\Recursive\obj\Debug\netcoreapp2.1\Recursive.pdb
+C:\Users\Ewan\source\repos\Recursive\Recursive\obj\Debug\netcoreapp2.1\Recursive.csprojAssemblyReference.cache

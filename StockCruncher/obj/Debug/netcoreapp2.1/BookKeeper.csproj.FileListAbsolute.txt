@@ -1,0 +1,11 @@
+C:\Users\Ewan\source\repos\BookKeeper\bin\Debug\netcoreapp2.1\BookKeeper.deps.json
+C:\Users\Ewan\source\repos\BookKeeper\bin\Debug\netcoreapp2.1\BookKeeper.runtimeconfig.json
+C:\Users\Ewan\source\repos\BookKeeper\bin\Debug\netcoreapp2.1\BookKeeper.runtimeconfig.dev.json
+C:\Users\Ewan\source\repos\BookKeeper\bin\Debug\netcoreapp2.1\BookKeeper.dll
+C:\Users\Ewan\source\repos\BookKeeper\obj\Debug\netcoreapp2.1\BookKeeper.csprojAssemblyReference.cache
+C:\Users\Ewan\source\repos\BookKeeper\obj\Debug\netcoreapp2.1\BookKeeper.csproj.CoreCompileInputs.cache
+C:\Users\Ewan\source\repos\BookKeeper\obj\Debug\netcoreapp2.1\BookKeeper.AssemblyInfoInputs.cache
+C:\Users\Ewan\source\repos\BookKeeper\obj\Debug\netcoreapp2.1\BookKeeper.AssemblyInfo.cs
+C:\Users\Ewan\source\repos\BookKeeper\bin\Debug\netcoreapp2.1\BookKeeper.pdb
+C:\Users\Ewan\source\repos\BookKeeper\obj\Debug\netcoreapp2.1\BookKeeper.dll
+C:\Users\Ewan\source\repos\BookKeeper\obj\Debug\netcoreapp2.1\BookKeeper.pdb

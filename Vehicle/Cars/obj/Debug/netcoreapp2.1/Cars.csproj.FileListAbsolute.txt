@@ -1,0 +1,10 @@
+C:\Users\Ewan\source\repos\Vehicle\Cars\obj\Debug\netcoreapp2.1\Cars.csproj.CoreCompileInputs.cache
+C:\Users\Ewan\source\repos\Vehicle\Cars\obj\Debug\netcoreapp2.1\Cars.AssemblyInfoInputs.cache
+C:\Users\Ewan\source\repos\Vehicle\Cars\obj\Debug\netcoreapp2.1\Cars.AssemblyInfo.cs
+C:\Users\Ewan\source\repos\Vehicle\Cars\bin\Debug\netcoreapp2.1\Cars.deps.json
+C:\Users\Ewan\source\repos\Vehicle\Cars\bin\Debug\netcoreapp2.1\Cars.runtimeconfig.json
+C:\Users\Ewan\source\repos\Vehicle\Cars\bin\Debug\netcoreapp2.1\Cars.runtimeconfig.dev.json
+C:\Users\Ewan\source\repos\Vehicle\Cars\bin\Debug\netcoreapp2.1\Cars.dll
+C:\Users\Ewan\source\repos\Vehicle\Cars\bin\Debug\netcoreapp2.1\Cars.pdb
+C:\Users\Ewan\source\repos\Vehicle\Cars\obj\Debug\netcoreapp2.1\Cars.dll
+C:\Users\Ewan\source\repos\Vehicle\Cars\obj\Debug\netcoreapp2.1\Cars.pdb

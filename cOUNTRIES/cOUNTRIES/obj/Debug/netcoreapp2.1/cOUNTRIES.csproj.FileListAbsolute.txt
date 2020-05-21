@@ -1,0 +1,11 @@
+C:\Users\Ewan\source\repos\cOUNTRIES\cOUNTRIES\obj\Debug\netcoreapp2.1\cOUNTRIES.csprojAssemblyReference.cache
+C:\Users\Ewan\source\repos\cOUNTRIES\cOUNTRIES\obj\Debug\netcoreapp2.1\cOUNTRIES.csproj.CoreCompileInputs.cache
+C:\Users\Ewan\source\repos\cOUNTRIES\cOUNTRIES\obj\Debug\netcoreapp2.1\cOUNTRIES.AssemblyInfoInputs.cache
+C:\Users\Ewan\source\repos\cOUNTRIES\cOUNTRIES\obj\Debug\netcoreapp2.1\cOUNTRIES.AssemblyInfo.cs
+C:\Users\Ewan\source\repos\cOUNTRIES\cOUNTRIES\bin\Debug\netcoreapp2.1\Countries.deps.json
+C:\Users\Ewan\source\repos\cOUNTRIES\cOUNTRIES\bin\Debug\netcoreapp2.1\Countries.runtimeconfig.json
+C:\Users\Ewan\source\repos\cOUNTRIES\cOUNTRIES\bin\Debug\netcoreapp2.1\Countries.runtimeconfig.dev.json
+C:\Users\Ewan\source\repos\cOUNTRIES\cOUNTRIES\bin\Debug\netcoreapp2.1\Countries.dll
+C:\Users\Ewan\source\repos\cOUNTRIES\cOUNTRIES\bin\Debug\netcoreapp2.1\Countries.pdb
+C:\Users\Ewan\source\repos\cOUNTRIES\cOUNTRIES\obj\Debug\netcoreapp2.1\Countries.dll
+C:\Users\Ewan\source\repos\cOUNTRIES\cOUNTRIES\obj\Debug\netcoreapp2.1\Countries.pdb

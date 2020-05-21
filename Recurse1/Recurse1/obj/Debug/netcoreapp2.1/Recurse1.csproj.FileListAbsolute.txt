@@ -1,0 +1,11 @@
+C:\Users\Ewan\source\repos\Recurse1\Recurse1\bin\Debug\netcoreapp2.1\Recurse1.deps.json
+C:\Users\Ewan\source\repos\Recurse1\Recurse1\bin\Debug\netcoreapp2.1\Recurse1.runtimeconfig.json
+C:\Users\Ewan\source\repos\Recurse1\Recurse1\bin\Debug\netcoreapp2.1\Recurse1.runtimeconfig.dev.json
+C:\Users\Ewan\source\repos\Recurse1\Recurse1\bin\Debug\netcoreapp2.1\Recurse1.dll
+C:\Users\Ewan\source\repos\Recurse1\Recurse1\bin\Debug\netcoreapp2.1\Recurse1.pdb
+C:\Users\Ewan\source\repos\Recurse1\Recurse1\obj\Debug\netcoreapp2.1\Recurse1.csproj.CoreCompileInputs.cache
+C:\Users\Ewan\source\repos\Recurse1\Recurse1\obj\Debug\netcoreapp2.1\Recurse1.AssemblyInfoInputs.cache
+C:\Users\Ewan\source\repos\Recurse1\Recurse1\obj\Debug\netcoreapp2.1\Recurse1.AssemblyInfo.cs
+C:\Users\Ewan\source\repos\Recurse1\Recurse1\obj\Debug\netcoreapp2.1\Recurse1.dll
+C:\Users\Ewan\source\repos\Recurse1\Recurse1\obj\Debug\netcoreapp2.1\Recurse1.pdb
+C:\Users\Ewan\source\repos\Recurse1\Recurse1\obj\Debug\netcoreapp2.1\Recurse1.csprojAssemblyReference.cache
