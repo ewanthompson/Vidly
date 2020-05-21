@@ -5,12 +5,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using vidly.Models;
+using Vidly.Models;
 
-namespace vidly.Controllers
+namespace Vidly.Controllers
 {
-
-    //Default project controller1
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
